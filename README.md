@@ -15,3 +15,8 @@ Day 3 (03/11/2023):
 HackerEarth: Toggle String,
 Coding Ninjas: Number Of Digits,
 LeetCode: Find the Index of the First Occurrence in a String
+
+Day 4 (04/11/2023):
+LeetCode : Length of Last Word,
+Coding Ninjas : Find Character Case,
+Hacker Earth : Find Mex
