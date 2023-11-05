@@ -20,3 +20,8 @@ Day 4 (04/11/2023):
 LeetCode : Length of Last Word,
 Coding Ninjas : Find Character Case,
 Hacker Earth : Find Mex
+
+Day 5 (05/11/2023):
+LeetCode : Find Winner Of Array Game,
+Coding Ninjas : Find Unique,
+Hacker Earth : Count Divisors
