@@ -25,3 +25,8 @@ Day 5 (05/11/2023):
 LeetCode : Find Winner Of Array Game,
 Coding Ninjas : Find Unique,
 Hacker Earth : Count Divisors
+
+Day 6 (06/11/2023):
+LeetCode : Set Matrix Zero,
+Coding Ninjas : Set Bits,
+Hacker Earth : Number of Cycles
