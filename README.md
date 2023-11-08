@@ -32,8 +32,8 @@ Coding Ninjas : Set Bits &&
 Hacker Earth : Number of Cycles
 
 Day 7 (07/11/2023)
-LeetCode :- Climbing Stairs
-Coding Ninjas :- Square Root Integral
+LeetCode :- Climbing Stairs &&
+Coding Ninjas :- Square Root Integral &&
 Geeks For Geeks :- Missing number in an Array
 
 Day 8 (08/11/2023)
