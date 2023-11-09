@@ -1,5 +1,5 @@
 # 30-Days-Coding-Challenge
-30-day coding challenge: Elevating coding skills through daily problems from Hacker Earth, Coding Ninjas, and LeetCode. 🚀🤞🏼
+30-day coding challenge: Elevating coding skills through daily problems from Hacker Earth, Coding Ninjas,LeetCode And Geeks For Geeks. 🚀🤞🏼
 
 Day 1 (01/11/2023):
 Hacker Earth: Count in String &&
