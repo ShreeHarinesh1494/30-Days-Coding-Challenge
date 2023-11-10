@@ -31,22 +31,22 @@ LeetCode : Set Matrix Zero &&
 Coding Ninjas : Set Bits &&
 Hacker Earth : Number of Cycles
 
-Day 7 (07/11/2023)
+Day 7 (07/11/2023):
 LeetCode :- Climbing Stairs &&
 Coding Ninjas :- Square Root Integral &&
 Geeks For Geeks :- Missing number in an Array
 
-Day 8 (08/11/2023)
+Day 8 (08/11/2023):
 LeetCode : Rotate Image &&
 Coding Ninjas : Euiler Totient Function &&
 Geeks For Geeks : Euilibrium Point
 
-Day 9(09/11/2023)
+Day 9(09/11/2023):
 LeetCode :- Rotate Array &&
 Coding Ninjas :- Find The Single Element &&
 Geeks For Geeks :- Sum of upper and lower triangles
 
-Day 10(10/11/2023)
+Day 10(10/11/2023):
 LeetCode :- Matrix Diagonal Sum &&
 Coding Ninjas :- Inplace rotate matrix 90 degree &&
 Geeks For Geeks :- Palindrome Strings
