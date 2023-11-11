@@ -50,3 +50,8 @@ Day 10(10/11/2023):
 LeetCode :- Matrix Diagonal Sum &&
 Coding Ninjas :- Inplace rotate matrix 90 degree &&
 Geeks For Geeks :- Palindrome Strings
+
+Day 11(11/11/2023):
+LeetCode :- Merge Sorted Array &&
+Coding Ninjas :- Largest Element in the Array &&
+Geeks For Geeks :- Check if array is sorted
