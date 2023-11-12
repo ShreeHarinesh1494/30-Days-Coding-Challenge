@@ -55,3 +55,8 @@ Day 11(11/11/2023):
 LeetCode :- Merge Sorted Array &&
 Coding Ninjas :- Largest Element in the Array &&
 Geeks For Geeks :- Check if array is sorted
+
+Day 12(12/11/2023)
+LeetCode :- Reverse Words in a String &&
+Coding Ninjas :- Find Duplicate in an array &&
+Geeks For Geeks :- Second Largest
