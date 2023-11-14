@@ -66,3 +66,8 @@ Geeks For Geeks :- Second Largest
 LeetCode :- Running Sum of Array &&
 Coding Ninjas :- Sort 0 1 &&
 Geeks For Geeks :- Union of two arrays
+
+# Day 14(14/11/2023)
+LeetCode :- Transpose Matrix
+Coding Ninjas :- Second largest element in the array
+Geeks For Geeks :- Largest Element in Array
