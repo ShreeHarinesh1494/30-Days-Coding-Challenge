@@ -68,6 +68,11 @@ Coding Ninjas :- Sort 0 1 &&
 Geeks For Geeks :- Union of two arrays
 
 # Day 14(14/11/2023)
-LeetCode :- Transpose Matrix
-Coding Ninjas :- Second largest element in the array
+LeetCode :- Transpose Matrix &&
+Coding Ninjas :- Second largest element in the array &&
 Geeks For Geeks :- Largest Element in Array
+
+# Day 15(15/11/2023)
+LeetCode :- Longest Common Prefix &&
+Coding Ninjas :- Copy And Reverse The Array &&
+Geeks For Geeks :- Number of occurrence
