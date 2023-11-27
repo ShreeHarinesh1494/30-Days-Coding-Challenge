@@ -76,3 +76,66 @@ Geeks For Geeks :- Largest Element in Array
 LeetCode :- Longest Common Prefix &&
 Coding Ninjas :- Copy And Reverse The Array &&
 Geeks For Geeks :- Number of occurrence
+
+# Day 16(16//11/2023)
+LeetCode :- Moves zeroes &&
+Coding Ninjas :- Search In Rotated Sorted Array &&
+Geeks For Geeks :- Sum of Array Elements
+
+
+# Day 17(17/11/2023)
+LeetCode :- Search in Rotated Sorted Array &&
+Coding Ninjas :- Sum of Even Numbers Till N &&
+Geeks For Geeks :- Prime Number
+
+# Day 18(18/11/2023)
+LeetCode :- Search Insert Position && 
+Coding Ninjas :- Next Greater Element &&
+Geeks For Geeks :- Peak Element
+
+# Day 19(19//11/2023)
+LeetCode :- Permutations && 
+Coding Ninjas :- Reverse the Array &&
+Geeks For Geeks :- Kadane's Algorithm
+
+# Day 20(20/11/2023)
+LeetCode :- Squares of a Sorted Array &&
+Coding Ninjas :- Rotate Array &&
+Geeks For Geeks :- Leaders in an array
+
+# Day 21(21/11/2023)
+LeetCode :- Find First and Last Position of Element in Sorted Array &&
+Coding Ninjas :- Kth Smallest and Largest Element of Array &&
+Geeks For Geeks :- Anagram
+
+# Day 22(22/11/2023)
+LeetCode :- Valid Palindrome &&
+Coding Ninjas :- Minimum Path Sum &&
+Geeks For Geeks :- First and last occurrences of x
+
+# Day 23(23/11/2023)
+LeetCode :- Reverse Words in a String &&
+Coding Ninjas :- Search Insert Position &&
+Geeks For Geeks :- Rotating an Array
+
+# Day 24(24/11/2023)
+LeetCode :- Isomorphic Strings &&
+Coding Ninjas :- Left Rotate an Array by One &&
+Geeks For Geeks :- Arrays (Sum of array)
+
+# Day 25(25/11/2023)
+LeetCode :- First Unique Character in a String &&
+Coding Ninjas :- Magic Index &&
+Geeks For Geeks :- Binary Array Sorting
+
+# Day 26(26/11/2023)
+LeetCode :- Reverse Vowels of a String &&
+Coding Ninjas :- Transpose of a Matrix &&
+Geeks For Geeks :- Check if two arrays are equal or not
+
+# Day 27(27/11/2023)
+LeetCode :- Contains Duplicate II &&
+Coding Ninjas :- Find First and Last Position of Element in Sorted Array &&
+Geeks For Geeks :- Last index of One
+
+
